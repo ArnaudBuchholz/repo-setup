@@ -26,6 +26,12 @@
   * ![Documentation](https://img.shields.io/badge/-documentation-blueviolet) *(if not README)* <br/>
     `[![Documentation](https://img.shields.io/badge/-documentation-blueviolet)](https://github.com/ArnaudBuchholz/<PROJECT>/tree/master/README.md)`
 
+* Sections
+ * 📚 Documentation
+ * 💿 How to install
+ * 🖥️ How to demo
+ * ⚖️ License
+ * ⚠️ Breaking changes
 
 ## `package.json`
 
