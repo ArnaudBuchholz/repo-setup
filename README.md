@@ -27,11 +27,13 @@
     `[![Documentation](https://img.shields.io/badge/-documentation-blueviolet)](https://github.com/ArnaudBuchholz/<PROJECT>/tree/master/README.md)`
 
 * Sections
+  * 🍁 Rational / Overview
   * 📚 Documentation
   * 💿 How to install
   * 🖥️ How to demo
   * ⚖️ License
   * ⚠️ Breaking changes
+  * ✒ Contributors
 
 ## `package.json`
 
