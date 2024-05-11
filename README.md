@@ -37,6 +37,8 @@
 
 ## `package.json`
 
+* `author` : `"Arnaud Buchholz <arnaud.buchholz@free.fr>"`
+
 * expected scripts :
   * `build` *(if needed)*
   * `test`
