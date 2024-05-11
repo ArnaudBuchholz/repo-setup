@@ -32,6 +32,7 @@
   * 💿 How to install
   * 🖥️ How to demo
   * ⚖️ License
+  * ⌛  Versions / History
   * ⚠️ Breaking changes
   * ✒ Contributors
 
